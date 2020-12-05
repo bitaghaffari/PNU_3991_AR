@@ -6,7 +6,7 @@
 - [روزمه](https://zahramahan.github.io/zahra-resum/)
 - [رزومه انگلیسی](https://github.com/bitaghaffari/CV/blob/main/index.html)
 - [SOP](https://zahramahan.github.io/Sop/.  )
-- [Certificates]( https://zahramahan.github.io/Certificates/)
+- [Certificates]( https://github.com/bitaghaffari/Certificates)
 
 
 ------------------
