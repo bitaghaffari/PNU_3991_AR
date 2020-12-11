@@ -8,7 +8,7 @@
 - [SOP](https://github.com/bitaghaffari/SOP  )
 - [Certificates(patchwork/java/html)]( https://github.com/bitaghaffari/Certificates)
 ---
-- [ معرفی یک درس مشابه در دانشگاههای دیگر ](دانشگاه شهید بهشتی  درس روش پژوهش مهندسی فناوری اطلاعات.pdf)
+- [معرفی یک درس مشابه در دانشگاههای دیگر ] (https://github.com/bitaghaffari/PNU_3991_AR/blob/main/دانشگاه%20شهید%20بهشتی%20%20درس%20روش%20پژوهش%20مهندسی%20فناوری%20اطلاعات.pdf)
 - [روش پژوهش پایان نامه یک](ThesisForMethodology.pdf)
 - [روش پژوهش پایان نامه دو](Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
 - [ارائه لاتکس آخر صفحه 21 تا آخر صفحه 24] (https://github.com/bitaghaffari/Latex.git)
