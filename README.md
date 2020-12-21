@@ -4,7 +4,7 @@
  
 - [حساب گیت هاب](https://github.com/bitaghaffari)
 - [روزمه](https://github.com/bitaghaffari/Persian-CV)
-- [رزومه انگلیسی](https://github.com/bitaghaffari/CV/blob/main/index.html)
+- [رزومه انگلیسی](https://bitaghaffari.github.io/)
 - [SOP](https://github.com/bitaghaffari/SOP  )
 - [Certificates(patchwork/java/html)]( https://github.com/bitaghaffari/Certificates)
 ---
@@ -30,19 +30,6 @@
 ## درس کارشناسی 
 [1115133_01 شیوه ارایه مطالب علمی و فنی](https://github.com/bitaghaffari/PNU_3991_AR.git)
 <br>
-[آزمایشگاه پایگاه داده](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
-[آزمایشگاه سیستم عامل](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
-[مهندسی فناوری اطلاعات 2](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
-[مدیریت و کنترل پروژه های فناوری اطلاعات](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
-[سیستم های عامل](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
-[گرافیک کامپیوتری](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
-[تجارت الکترونیک](https://github.com/bitaghaffari/PNU_3991_AR.git)
-<br>
+
 
 --------------
