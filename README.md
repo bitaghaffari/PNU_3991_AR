@@ -5,7 +5,7 @@
 - [حساب گیت هاب](https://github.com/bitaghaffari)
 - [روزمه](https://github.com/bitaghaffari/Persian-CV)
 - [رزومه انگلیسی](https://bitaghaffari.github.io/)
-- [SOP](https://bitaghaffari.github.io/SOP/index.html)
+- [SOP](https://github.com/bitaghaffari/SOP/index.html)
 - [Certificates(patchwork/java/html)]( https://github.com/bitaghaffari/Certificates)
 ---
 - [معرفی یک درس مشابه در دانشگاههای دیگر ] (https://github.com/bitaghaffari/PNU_3991_AR/blob/main/دانشگاه%20شهید%20بهشتی%20%20درس%20روش%20پژوهش%20مهندسی%20فناوری%20اطلاعات.pdf)
