@@ -20,6 +20,6 @@
 - [معرفی یک درس مشابه در دانشگاههای دیگر ](ShahidBeheshtiResearchAndPresentationmethodsIT.pdf)
 - [روش پژوهش پایان نامه یک](ThesisForMethodology.pdf)
 - [روش پژوهش پایان نامه دو](Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
-- [روش پژوهش پایان نامه سه](Misconceptions in Phenomenological Research.pdf)
+- [روش پژوهش پایان نامه سه](MisconceptionsinPhenomenologicalResearch.pdf)
 - [روش پژوهش پایان نامه چهارم](THERELATIONSHIPBETWEENINFORMED.pdf)
 </div>
