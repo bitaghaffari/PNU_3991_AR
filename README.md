@@ -19,7 +19,13 @@
     1. [_BSc-08_بی تا غفاری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/08_%D8%A8%D9%8A%20%D8%AA%D8%A7%20%D8%BA%D9%81%D8%A7%D8%B1%D9%8A)
     1. [_BSc-52_متين كاظمي صابر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/52_%D9%85%D8%AA%D9%8A%D9%86%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B5%D8%A7%D8%A8%D8%B1)
     1. [_BSc-27_حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)
-    
+ 
+---------
+> ارزیابی ها  
+### بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/bitaghaffari/PNU_3991_AR/blob/main/_General/BGH_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/bitaghaffari/PNU_3991_AR/blob/main/_General/BGH_GeneralSection_CheckList_AR_3991.pdf)
+
 -------------------
 ## Winter Semester Courses 1399/2020
 
