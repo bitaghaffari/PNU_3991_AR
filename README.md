@@ -1,3 +1,4 @@
+<div dir="rtl">
 # [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991_AR)
 ---------
 ### بی تا غفاری
@@ -7,12 +8,7 @@
 - [SOP](https://bitaghaffari.github.io/SOP/)
 - [Certificates(patchwork/java/html)](https://bitaghaffari.github.io/Certificates/)
 ---
-- [معرفی یک درس مشابه در دانشگاههای دیگر ] (https://github.com/bitaghaffari/PNU_3991_AR/blob/main/دانشگاه%20شهید%20بهشتی%20%20درس%20روش%20پژوهش%20مهندسی%20فناوری%20اطلاعات.pdf)
-- [روش پژوهش پایان نامه یک](ThesisForMethodology.pdf)
-- [روش پژوهش پایان نامه دو](Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
-- [ارائه لاتکس آخر صفحه 21 تا آخر صفحه 24] (https://github.com/bitaghaffari/Latex.git)
 
-------------------
 ## گروه ها
     
 1. RPM 
@@ -100,4 +96,5 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+</div>
 </div>
