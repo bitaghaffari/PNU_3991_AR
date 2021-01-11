@@ -1,4 +1,5 @@
 <div dir="rtl">
+ 
 # [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991_AR)
 ---------
 ### بی تا غفاری
@@ -30,6 +31,7 @@
 --------------
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
+</div>
 <div dir="ltr">
 <table style="width:100%">
   <tr>
