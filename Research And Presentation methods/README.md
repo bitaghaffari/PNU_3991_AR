@@ -17,9 +17,9 @@
 ------------------
 ### فعالیت های گروهی
 
-- [معرفی یک درس مشابه در دانشگاههای دیگر ](Shahid Beheshti-Research-And-Presentation-methods-IT.pdf)
+- [معرفی یک درس مشابه در دانشگاههای دیگر ](ShahidBeheshtiResearchAndPresentationmethodsIT.pdf)
 - [روش پژوهش پایان نامه یک](ThesisForMethodology.pdf)
 - [روش پژوهش پایان نامه دو](Dependabilityanalysisandrecoverysupportforsmartgrids.pdf)
 - [روش پژوهش پایان نامه سه](Misconceptions in Phenomenological Research.pdf)
-- [روش پژوهش پایان نامه چهارم](THE RELATIONSHIP BETWEEN INFORMED.pdf)
+- [روش پژوهش پایان نامه چهارم](THERELATIONSHIPBETWEENINFORMED.pdf)
 </div>
